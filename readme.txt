@@ -1,3 +1,5 @@
+This is a local version maintained for USC EE-660
+
 Probabilistic modeling toolkit version 3
 See https://github.com/probml/pmtk3 for details.
 
